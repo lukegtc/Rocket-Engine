@@ -1,0 +1,1 @@
+#1.5 O/F ratio and 0.9315 kg/s mass flow 0.3726 kg/s and 0.5589 kg/s
